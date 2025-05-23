@@ -1,0 +1,63 @@
+[
+  {
+    "name": "App Launcher",
+    "alias": "app",
+    "type": "app_launcher",
+    "args": {},
+    "priority": 2,
+    "home": true
+  },
+  {
+    "name": "Search the web!",
+    "display_name": "DuckDuckGo",
+    "type": "web_launcher",
+    "tag_start": "{keyword}",
+    "tag_end": "{keyword}",
+    "alias": "ddg",
+    "args": {
+      "search_engine": "https://duckduckgo.com/?q={keyword}",
+      "icon": "duckduckgo"
+    },
+    "priority": 100
+  },
+  {
+    "name": "GitHub Search",
+    "display_name": "GitHub",
+    "type": "web_launcher",
+    "tag_start": "{keyword}",
+    "tag_end": "{keyword}",
+    "alias": "gh",
+    "args": {
+      "search_engine": "https://github.com/search?q={keyword}&type=repositories",
+      "icon": "github"
+    },
+    "priority": 100
+  },
+  {
+    "name": "YouTube Search",
+    "display_name": "YouTube",
+    "type": "web_launcher",
+    "tag_start": "{keyword}",
+    "tag_end": "{keyword}",
+    "alias": "yt",
+    "args": {
+      "search_engine": "https://youtube.com/results?search_query={keyword}",
+      "icon": "youtube"
+    },
+    "priority": 100
+  },
+  {
+    "name": "Calculator",
+    "type": "calculation",
+    "args": {},
+    "priority": 1
+  },
+  {
+    "name": "Clipboard",
+    "type": "clipboard-execution",
+    "args": {},
+    "alias": "clip",
+    "priority": 1,
+    "home": true
+  }
+]
