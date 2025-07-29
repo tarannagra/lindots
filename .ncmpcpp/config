@@ -1,0 +1,14 @@
+ncmpcpp_directory = ~/.ncmpcpp
+mpd_host = "localhost"
+mpd_port = "6600"
+mpd_music_dir = "~/Music"
+visualizer_in_stereo = "yes"
+song_list_format = "{%a - }{%t}|{%f}"
+playlist_display_mode = "columns"
+browser_display_mode = "columns"
+search_engine_display_mode = "columns"
+progressbar_look = "─╼ "
+
+colors_enabled = "yes"
+
+# keys_file = ~/.ncmpcpp/keys

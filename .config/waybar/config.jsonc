@@ -1,0 +1,131 @@
+{
+    "layer": "top",
+    "position": "top",
+    "spacing": 0,
+    "height": 40,
+    "modules-left": [
+        "custom/arch",
+        "hyprland/workspaces",
+        "hyprland/window",
+    ],
+    "modules-center": [
+        "mpd",
+    ],
+    "modules-right": [
+        "bluetooth",
+        "pulseaudio",
+        "battery",
+        "network",
+        "clock",
+        "tray",
+        "custom/power",
+    ],
+    "custom/arch": {
+        "format": " 󱐋 ",
+        "on-click": "rofi -show drun",
+        "tooltip": false
+    },
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "all-outputs": true,
+        "persistent_workspaces": {
+            "1": [],
+            "2": [],
+            "3": [],
+            "4": [],
+            "5": []
+        },
+        "format-icons": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+        }
+    },
+    "hyprland/window": {
+        "format": "{title:.40}",
+        "icon": true,
+        "tooltip": false,
+        // "separate-outputs": true,
+    },
+    "clock": {
+        "format": "<span color='#b69bf1'> </span>{:%I:%M %p %d/%m/%Y}",
+        "format-alt": "<span foreground='#b69bf1'> </span><span>{:%I:%M %p %a %d}</span>",
+        "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
+        "tooltip": false,
+    },
+    "network": {
+        "format": "{ifname}",
+        "format-wifi": "<span color='#90cdfa'> </span> {essid}",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "format-disconnected": "<span color='#ff005f'>󰖪 </span>No Network",
+        "on-click": "nm-applet"
+    },
+    "battery": {
+        "interval": 60,
+        "states": {
+            "warning": 30,
+            "critical": 15,
+        },
+        "format": "<span color='#a8cd76'>{icon}</span> {capacity}%",
+        "format-icons": ["", "", "", "", ""],
+        "format-charging": "<span color='#a8cd76'></span> {capacity}%",
+        "toolip": false,
+    },
+    "pulseaudio": {
+        "on-click": "pactl set-sink-mute @DEFAULT_SINK@ toggle",
+        "format": "<span color='#f7768e'></span> {volume}%",
+        "format-muted": "<span color='#f7768e'>ﱝ</span>",
+        "on-click-right": "pavucontrol"
+    },
+    "custom/media": {
+        "format": "{}",
+        "exec": "~/.config/waybar/scripts/mediaplayer.sh",
+        "interval": 1,
+        "return-type": "json", 
+        "on-click": "playerctl play-pause",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous",
+        "tooltip": false,
+    },
+    "mpd": {
+        "format": "{stateIcon} {artist} - {title} ({elapsedTime:%M:%S}/{totalTime:%M:%S}) {randomIcon}{repeatIcon}",
+        "format-stopped": "",
+        // "format-disconnected": "Disconnected ",
+        "artist-len": 50,
+        "title-len": 70,
+        "interval": 10,
+        "random-icons": {
+            "on": " "
+        },
+        "repeat-icons": {
+            "on": " "
+        },
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        },
+        "tooltip": false,
+        "on-click": "mpc toggle",
+        "on-click-right": "rofi-mpc", // TODO: add the pypr client to ncmpcpp
+    },
+    "bluetooth": {
+        "format": "󰂲",
+        "format-disabled": "󰂲", // an empty format will hide the module
+        "format-connected": "<span color='#0082FC'></span> {device_alias}",
+        "tooltip": false,
+        "on-click": "rofi-bluetooth &", // aur: rofi-bluetooth-git
+    },
+    "custom/power": {
+        "format": "󰤆",
+        "tooltip": false,
+        "on-click": "~/.local/bin/powermenu",
+        "on-click-right": "hyprlock",
+    },
+    "tray": {
+        "spacing": 10,
+        "icon_size": 16,
+    },
+}

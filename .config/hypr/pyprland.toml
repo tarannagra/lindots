@@ -1,0 +1,18 @@
+[pyprland]
+plugins = [
+    "scratchpads",
+]
+
+# [scratchpads.music]
+# animation = "fromTop"
+# command = "kitty --class scratchpad -e musikcube"
+# class = "kitty"
+# size = "50% 50%"
+# margin = 75
+
+# [scratchpads.beeper]
+# animation = "fromBottom"
+# command = "kitty --class scratchpad -e beeper"
+# # class = "beeper"
+# size = "80% 80%"
+

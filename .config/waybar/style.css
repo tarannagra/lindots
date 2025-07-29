@@ -1,0 +1,129 @@
+
+* {
+    font-family: 'JetBrainsMono Nerd Font', 'Symbols Only';
+    font-size: 18px;
+    min-height: 0;
+    border: none;
+    border-radius: 0;
+    padding-left: 0px;
+}
+
+window#waybar {
+    background: #1F1F28; /* SumiInk0 */
+    color: #DCD7BA;      /* FujiWhite */
+    transition: background-color 0.5s;
+}
+
+/* Left workspace section */
+#workspaces {
+    background: transparent;
+    padding: 0 6px;
+}
+
+#workspaces button {
+    padding: 4px 12px;
+    margin: 0 4px;
+    color: #828E93;
+    border-radius: 4px;
+    border: 2px;
+}
+
+#workspaces button.empty {
+    color: #363646;
+}
+
+#workspaces button.active {
+    background: #1F1F28;
+    /* border: none; */
+    border: 1px solid #6A9589;
+    border-radius: 5px;
+    color: #7E9CD8;
+}
+
+#workspaces button.urgent {
+    background-color: #FF5D62;
+    color: white;
+}
+
+#workspaces button:hover {
+    background-color: #363646;
+    color: #7E9CD8;
+}
+
+/* All modules share these styles */
+#battery, #cpu, #memory, #network, #pulseaudio, #backlight,
+#temperature, #clock, #tray, #custom-power, #bluetooth,
+#custom-cava, #mpd, #custom-media, #custom-arch, #window {
+    padding: 4px 10px;
+    margin: 4px 4px;
+    background-color: #2A2A37;
+    color: #DCD7BA;
+    border-radius: 6px;
+}
+
+.modules-left, .modules-center, .modules-right {
+    margin: 0 6px;
+}
+
+#battery {
+    color: #98BB6C;
+}
+
+#battery.warning:not(.charging) {
+    background: #FF5D62;
+    color: white;
+    animation: blink 0.5s linear infinite alternate;
+}
+
+#pulseaudio {
+    color: #98BB6C;
+}
+
+#pulseaudio.muted {
+    color: #FF5D62;
+}
+
+#mpd.stopped {
+    background-color: transparent;    
+}
+
+#network, #bluetooth {
+    color: #7FB4CA;
+}
+
+#clock {
+    color: #7FB4CA;
+}
+
+#custom-power {
+    color: #D27E99;
+}
+
+#custom-media, #mpd {
+    color: #E6C384;
+}
+
+#custom-arch {
+    font-size: 20px;
+    background-color: #2A2A37;
+    color: #DCD7BA;
+    padding: 4px 10px;
+}
+
+#window {
+    color: #E6C384;
+    min-width: 150px;
+}
+
+window#waybar.empty #window {
+    background-color: transparent;
+}
+
+/* Blinking for low battery */
+@keyframes blink {
+    to {
+        background-color: #FF5D62;
+        color: white;
+    }
+}
+

@@ -1,0 +1,19 @@
+[default_apps]
+terminal = "kitty"
+
+[debug]
+try_suppress_errors = false
+try_suppress_warnings = true
+
+[appearance]
+width = 900
+height = 593
+gsk_renderer = "cairo"
+recolor_icons = false
+icon_size = 30
+
+[behavior]
+caching = true
+cache = "~/.cache/sherlock_cache.json"
+daemonize = false
+animation = true

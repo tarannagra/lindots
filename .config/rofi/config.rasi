@@ -1,0 +1,34 @@
+// Taran's Rofi Config
+
+configuration {
+    // Initial Settings
+    modi: "drun,window";
+    case-sensitive: false;
+    cycle: true;
+    show-icons: true;
+    icon-theme: "Papirus";
+    steal-focus: false; // maybe should be true?
+    hover-select: true;
+
+    // Drun Settings
+    drun-categories: "";
+    drun-match-fields: "name,generic,exec,categories,keywords";
+    drun-display-format: "{name} [<span weight='light' size='small'><i>({generic})</i></span>]";
+    drun-show-actions: false;
+    drun-url-launcher: "xdg-open";
+    drun-use-desktop-cache: false;
+    drun-reload-desktop-cache: false;
+    drun {
+        // Parse user desktop files.
+        parse-user:   true;
+        // Parse system desktop files.
+        parse-system: true;
+    }
+
+    // Displays
+    display-window: "Active Windows";
+    display-drun: "Apps";
+}
+
+// Sourcing theme from "style.rasi"
+@theme "style"

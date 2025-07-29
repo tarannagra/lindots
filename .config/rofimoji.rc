@@ -1,0 +1,5 @@
+action = clipboard
+files = [emojis]
+skin-tone = moderate
+prompt = "Find your emoji:"
+max-recent = 0

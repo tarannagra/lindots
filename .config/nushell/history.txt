@@ -1,0 +1,2133 @@
+clear
+ls
+clear
+exit
+config nu
+cd .config
+ls
+cd nushell/
+nvim .
+clear
+exit
+jq
+claer
+clear
+which jq
+exit
+ls
+python3 mediaplayer.py --player musikcube
+clear
+mediaplayer.py --player musikcube
+chmod +x mediaplayer.py
+mediaplayer.py --player musikcube
+./mediaplayer.py --player musikcube
+clear
+ls
+clear
+exit
+clae
+clear
+exit
+clear
+ls
+exit
+clear
+ls
+clear
+exit
+clear
+ls
+clear
+exit
+clear
+ls
+exit
+ls
+claer
+exit
+clear
+ls
+clear
+exit
+ls
+clear
+z config
+clear
+zoxide init nushell | save -f ~/.zoxide.nu
+config nu
+z config
+clear
+exit
+exit
+z nvim
+cd
+clear
+nvim config
+clear
+nvim 
+clear
+z nvim 
+nvim 
+clear
+nvim 
+clear
+z config
+z kitty
+clear
+ls
+nvim kitty.conf
+claer
+clear
+exit
+z config
+clear
+z waybar
+clear
+pyprland
+exit
+~/.config/waybar/mediaplayer.py
+exit
+~/.config/waybar/mediaplayer.py
+exit
+clear
+nvim 
+clear
+z pypr
+clear
+z hypr
+ls
+clear
+pypr reload
+clear
+pypr reload
+clear
+pypr reload
+nvim 
+cd ..
+cd musikcube/
+ls
+clear
+ls
+clear
+nvim 
+clear
+ls
+clear
+ls
+cd theme
+cd themes/
+ls
+curl "https://github.com/clangen/musikcube/files/13999674/Nordic.json" -o Nordic.json
+clear
+ls
+rofi-bluetooth 
+clear
+nvim 
+clear
+z way
+clear
+pypr show 
+pypr show music
+nvim 
+clear
+z music
+z musik
+clear
+ls
+cd stderr.txt
+clear
+cat stderr.txt | less
+clear
+ls
+nvim settings.json
+clear
+ls
+clear
+ls
+clear
+man rofi
+rofi -show menu
+rofi -show window
+z way
+ls
+cd themes
+ls
+cd ..
+clear
+waybar
+waybar &
+waybar
+nvim 
+clear
+nvim
+cd
+nvim
+clear
+yazi
+clear
+z gray
+clear
+ls
+cd ..
+ls
+mv Grayjay.Desktop-linux-x64-v4/ -r .
+clear
+mv Grayjay.Desktop-linux-x64-v4/  .
+clear
+mv Grayjay.Desktop-linux-x64-v4/* .
+ls
+rm Grayjay.Desktop-linux-x64-v4/
+ls
+clear
+ls
+./Grayjay
+z way
+clear
+nvim 
+exi
+exit
+z hypr
+clear
+ls
+nvim 
+exit
+z rofi
+clear
+ls
+z config
+cd rofi
+ls
+cd applets/
+ls
+nvi m.
+cd ..
+cd applets/
+cd bin/
+ls
+claer
+clear
+./powermenu.sh
+clear
+./powermenu.sh 1
+./powermenu.sh 2
+z hypr
+clear
+nvim 
+z waybar
+clear
+z waybar
+clear
+~/.config/rofi/powermenu/type-2/powermenu.sh
+exit
+nvim 
+z hypr
+claer
+clear
+nvim .
+clear
+exit
+nvim 
+z wa
+clear
+~/.config/rofi/powermenu/type-2/powermenu.sh
+nvim 
+clear
+ls
+clear
+cd temp
+ls
+cd ..
+rm -rf temp/
+ls
+cd tmp
+ls
+clear
+ls
+cd .
+cd ..
+ls
+clear
+ls 6001CEM/
+ls
+rm -rf 6001CEM/ 6057CEM/ 6057CEM-Coursework/
+clear
+ls
+cd Desktop
+ls
+cd ..
+cd Coding
+ls
+clear
+cd ..
+yazi
+cd Grayjay/
+ls
+clear
+./Grayjay
+legcord
+clear
+albert toggle
+alber
+clear
+yay -Sy
+clear
+yay -Ssy legcord
+yay -Sy legcord-bin
+sudo pacman -Ssy kooha
+sudo pacman -Sy kooha
+sudo pacman -Syu
+clear
+walker
+yay -Syu
+yay -Q astal
+yay -Q libastal 
+yay -R libastal 
+yay -Q aylurs
+yay -Q aylur
+clear
+exit
+sudo shutdown now
+z hypr
+nvi m
+z walls
+clear
+sww
+clear
+z walls
+swww img wallhaven-39gxd3.png
+swaybg --help
+claer
+clear
+ls
+clear
+yazi 
+clear
+exit
+exut
+exit
+nvim 
+exit
+clear
+z el
+clear
+nvim 
+z hypr
+nvim
+clear
+exit
+nvim 
+clear
+ls
+ls config/
+ls -r config/
+clear
+ls -a config/
+clear
+ls
+ls --help 
+ls -a **/* 
+clear
+ls -a config/*
+ls -a config/**
+ls -a config/*/**
+ls -a config/*/*
+clear
+exit
+nmcli --help
+z el
+clear
+nvim
+clear
+nvim 
+clear
+nvim
+clear
+exit
+nvim 
+nvim
+clear
+z el
+nvim 
+nvim
+clear
+gs
+git status
+clear
+nvim
+clear
+z nvim 
+clear
+nvim 
+z el
+nvim 
+nvim
+z el
+ls
+nvim 
+nvim
+clear
+exit
+exit
+exit
+exit
+nvim
+clear
+ls
+gs
+clear
+which gs
+nvim
+z el
+nvim 
+nvim
+clear
+nvim
+clear
+z el
+clear
+z dzr
+clear
+ls
+nvim
+clear
+nvim 
+nvim
+nvim 
+nvim
+z dzr
+clea
+clear
+vim
+clear
+vim
+nvim
+clear
+nvim 
+nvim
+clear
+nvim
+clear
+nvim
+nvim
+clear
+cd
+z tmo
+ls
+cd tmp/
+ls
+clear
+ls
+yazi
+clear
+ls
+cd latex/
+clear
+nvim
+clear
+cd ..
+ls
+nvim
+lcear
+ls
+nvim 
+clear
+z
+ls
+clear
+z nvim
+clear
+nvim
+exit
+z nvim
+clear
+cd
+z way
+clear
+waybar
+nvim
+clear
+exit
+yay -Ssy nchat
+clear
+yay -R nchat
+gperf
+which gperf
+yay -Q gperf
+yay -R gperf
+clear
+yay --help | grep "cache"
+yay -c
+yay --clean
+clear
+yay --help | grep "cache"
+yay -cc
+yay -Syu
+clear
+cava
+clear
+which libcava
+clear
+yay -Q libcava
+yay -Ss libcava
+yay -R libcava
+clear
+z hypr
+clear
+ls
+nvim 
+clear
+exit
+nvim
+clear
+exit
+kill stremio
+clear
+mpv
+clear
+yazi
+clear
+yazi
+clear
+exit
+thunar 
+z config
+ls
+cd mpv
+ls
+clear
+ls
+curl "https://raw.githubusercontent.com/mpv-player/mpv/refs/heads/master/etc/mpv.conf" -o mpd.conf
+clear
+ls
+nvim mpd.conf
+clear
+ls
+exit
+yazi
+exit
+nvim 
+clear
+z el
+clear
+git pull origin main 
+clear
+exit
+ff
+clear
+fastfetch
+z el
+clear
+nvim 
+clear
+exit
+tmux
+clear
+sudo pacman -Ssy tmux 
+z nvim
+clear
+ls
+gs
+clear
+ls
+git status
+clear
+nvim 
+ls
+cd .config
+ls
+clear
+gs
+clear
+git status
+git add waybar/
+git commit -m "Made a simple configuration to my waybar config and now it's sexy"
+clear
+nvim .gitignore
+git add .gitignore
+clear
+git commit -m "Modified: .gitignore => remove tracking for nvim since it's in its own repo as of now!<\n>"
+clear
+ls
+git push origin main 
+clear
+z co
+clear
+ls
+cd way
+cd waybar/
+lcear
+clear
+ls
+cd Pictures/
+ls
+cd Screenshots/
+ls
+cp 2025-06-27_22:00:58.png ~/.config/waybar/
+nvim 
+glow
+yazi
+clear
+cd ..
+git add waybar/
+git commit -m "Added: waybar's own README.md file"
+gpom
+git push origin main 
+z nvim
+git pull origin main 
+clear
+nvim
+z hypr
+ls
+cd ..
+cd waybar/
+ls
+clear
+nvim 
+clea
+clear
+nm-applet 
+nm-applet --help
+nm
+clear
+exit
+z taran
+clear
+ls
+cd Github
+clear
+claer
+clear
+cd GitHub/
+ls
+clear
+git clone "https://github.com/tarannagra/tarannagra.github.io"
+cd tarannagra.github.io/
+ls
+clear
+ls
+bundle
+yay -Ss ruby
+yay -Ss ruby-bin
+yay -S ruby
+yay -Sy
+clear
+sudo pacman -Sy
+clear
+bundle
+exit
+z tarna
+z taran
+bundle
+clear
+zsh
+ls
+clear
+gem --version
+gem update --system
+sudo gem update --system
+clear
+bundle --help
+z taran
+bundle
+clear
+sudo bundle 
+clear
+bundle exec jekyll serve
+bundle install 
+ls
+ls -la
+mkdir .gems
+ls
+clear
+ls -la
+bundle install --path ~/.gems/
+bundle exec jekyll serve
+git status
+clear
+ls
+bundle exec 
+bundle
+bundle exec jekyll serve
+gem install bundler
+bundler
+clear
+bunder --version
+bundle --version
+clear
+bundle exec jekyll serve
+clear
+ls
+clear
+nvim 
+clear
+exit
+bundle update --bundler
+z taran
+bundle update --bundler
+clear
+bundle exec jekyll serve
+clear
+exit
+z taran
+clear
+nvim 
+exit
+z nvim
+git pull origin main
+tmux
+clear
+nivm
+nvim
+clear
+yay -Sy
+clear
+astral
+ags
+clear
+ags
+yay -Rns ags
+yay -Ss ags
+yay -Rns aylurs-gtk-shell-git
+yay -Rns ags-hyprpanel-git
+npm
+clear
+yay -Ss nom
+yay -Ss npm
+yay -S npm
+clear
+npm --version
+yay -Ss zellij
+clear
+yay -S zellij
+clear
+ghosttyu
+ghostty
+clear
+kitty conf
+clear
+z config
+nvim kitty/
+clear
+cmatrix
+clear
+ls
+clear
+z config
+exit
+ls
+clear
+exit
+nvim kitty/
+clear
+exit
+zellij 
+zellij --help
+z config
+ls
+z zellij/
+ls
+z kitty
+clea
+nvim
+nvim 
+exit
+nvim config.kdl
+clear
+exit
+clear
+exit
+zellij 
+ls
+clear
+ls
+nvim config.kdl
+z waybar
+clear
+ls
+z nvim
+z waybar
+ls
+clear
+exit
+waybar
+exit
+waybar
+exit
+waybar
+nvim 
+waybar
+zellij
+clear
+exi
+exit
+bash
+yay -Ss libcava
+clear
+yay -S libcava
+clear
+waybar
+sudo waybar
+clear
+exit
+waybar --help
+waybar 
+sudo pacman -S xdg-desktop-portal xdg-desktop-portal-hyprland
+systemctl --user restart xdg-desktop-portal.service<\n>
+waybar
+clear
+sudo pacman -S polkit
+systemctl --user restart waybar
+cat /var/log/pacman.log | grep -i 'removed' | grep -E 'aykur|asg|astral'<\n>
+cat /var/log/pacman.log | grep -i 'removed' | grep -E 'aykur|asg|astral'
+cat /var/log/pacman.log | grep -i 'removed' | grep -E 'aykur'
+cat /var/log/pacman.low
+cat /var/log/pacman.log
+hyprpanel
+yay -S ags-git libastal-meta aylurs-gtk-shell-git<\n>
+waybar
+yay -S aylurs-gtk-shell
+yay -R aylurs-gtk-shell-git<\n>yay -S aylurs-gtk-shell<\n>
+yay -Q astral
+yay -Q aylurs
+yay -S aylurs-gtk-shell-git<\n>
+clear
+waybar
+clear
+yay -S waybar ags-git libastal-powerprofiles-git libastal-network-git libastal-battery-git libastal-notifd-git gobject-introspection bluez
+yay -Ss ags-bin
+yay -Ss ags
+yay -Ss ags | fzf
+yay -S ags
+sudo rm /usr/bin/ags 
+sudo rm /usr/lib/debug/usr/bin/ags.debug
+clear
+yay -S ags
+waybar
+clear
+z waybar
+nvi m
+yay -Qi waybar
+waybar
+nvim
+waybar
+nvim 
+clear
+exit
+zellij
+z config
+ls
+sudo pacman -S tmux
+ls
+cd
+touch .tmux.conf
+celar
+clear
+nvim .tmux.conf
+nvim 
+nvim .tmux.conf
+tmux
+tmux ls
+tmux attach
+tmux
+tmux attach
+tmux ls
+nvim
+tmux
+tmux ls
+clear
+ls
+clear
+nvim 
+nvim .tmux.conf
+P
+nvim .tmux.conf
+exit
+clear
+tmux
+tmux ls
+tmux attach 0
+tmux attach
+tmux 
+killall tmux
+clear
+killall tmux
+pkill tmux
+tmux
+clear
+echo $SHELL
+clear
+echo $env.SHELL
+ls
+which nu
+ls
+clear
+exit
+clear
+ls
+exit
+tmux
+tmux ls
+z kana
+clear
+ls
+nvim .tmux.conf
+ls
+clear
+pwd
+exit
+nvim .tmux.conf
+exit
+ls
+cat kanagawa.tmux | wl-cip
+cat kanagawa.tmux | wl-clip
+clip
+clear
+nvim
+:q
+exit
+nvim .tmux.conf
+clear
+exit
+tmux 
+clear
+nvim 
+z kana
+ls
+nvim .tmux.conf
+tmux ls
+ls
+clear
+nvim .tmux.conf
+exit
+nvim 
+exit
+tmux attach
+exi
+exit
+nvim .tmux.conf
+exit
+tmux
+clear
+z way
+clear
+git status
+clear
+nvim .tmux.conf
+clear
+z github
+clear
+ls
+rm -rf kanagawa-tmux/
+clear
+ls
+config nu
+slcear
+clear
+ls
+exit
+clear
+exit
+z kitty
+clear
+ls
+nvim kitty.conf
+clear
+config nu
+clear
+exi
+exit
+nvim
+exit
+z kitty
+nvim kitty.conf
+exit
+tmux ls
+tmux kill-session 2
+tmux
+tmux ls
+tmux kill-session windows
+tmux kill-session
+clear
+tmux 
+tmux ls
+tmux kill-session -t 4
+tmux ls
+tmux kill-session -t 7
+clear
+tmux ls
+tmux attach -t 1
+ls
+tmux attach -t 0
+exit
+yay -Sy cryptomator-bin
+clear
+ls
+clear
+clear
+tmux
+tmux ls 
+ls
+z el 
+clear
+cd 
+cd el-
+clear
+ls
+cd GitHub/
+ls
+cd ..
+cd Documents/
+ls
+cd Obsidian/
+ls
+cd `El Braino/`
+clear
+ls
+clear
+nvim
+clear
+ls
+clear
+tmux a -t 0
+tmux ls
+tmux -t 0 rename-session 
+clear
+bash -c "echo $SHELL"
+bash -c "echo $EDITOR"
+clear
+ls
+tmux a -t 0
+ls
+cat .bashrc
+clear
+nvim .bashrc
+clear
+bash -c "echo $EDITOR"
+bash
+clear
+ls
+clear
+ls
+nvim 
+git pu
+git pull origin main 
+clear
+ls
+tmux
+clear
+nvim .tmux.conf
+clear
+tmux
+tmux ls
+tmux kill-session -t something
+tmux ls
+tmux ls
+clear
+ls
+cd .tmux/
+ls
+cd plugins/
+ls
+clear
+ls
+cd ..
+ls
+clear
+exit
+tmux new-session -s something
+clear
+ls
+clear
+ls
+cd .tmux/
+ls
+cd plugins/
+ls
+cd tmux-resurrect/
+ls
+cd .
+cd ..
+ls
+clear
+tmux-resurrect-restore 
+cd ..
+cd
+clear
+ls
+clear
+yay -Sy sesh-bin
+clear
+ls
+sesh
+sesh completion nu
+clear
+sesh connect $(sesh list | fzf) 
+bash
+clear
+ls
+clear
+bash -c sesh connect $(sesh list | fzf) 
+bash -c "sesh connect $(sesh list | fzf)"
+ls
+cd ..
+ls
+nvim .tmux.conf
+tmux
+tmux ls
+tmux a -t obsidina
+clear
+ls
+tmux a -t obsidian 
+clear
+tmux
+clear
+ls
+tmux ls
+tmux
+tmux ls
+tmux kill-session -t 4
+tmux -a _tmux
+tmux a -t _tmux
+clear
+tmux kill-server
+clear
+tmux ls
+tmux kill-server
+z tmux
+ls
+cd plugins/
+ls
+cd ..
+clear
+ls
+cd .
+cd ..
+z tmux
+ls
+cd plugins/
+ls
+rm -rf kanagawa-tmux/
+clear
+ls
+cd ..
+clear
+nvim .tmux.conf
+nvim .tmux.conf
+cd .tmux/
+ls
+cd plugins/
+ls
+cd tmux-kanagawa/
+ls
+nvim 
+cclear
+clear
+tmux
+tmux ls
+clear
+killall legcord
+clear
+sudo pacman -Sy mpd mpc ncmpcpp
+clear
+mkdir -p ~/.config/mpd/{playlists,state}<\n>mkdir -p ~/.ncmpcpp<\n>
+clear
+ls
+cd .config
+ls
+clear
+cd
+clear
+ls
+nvim
+z config
+yazi
+nvim 
+config env
+tmux new-session -s .config
+clear
+mpc update
+cd .ncmpcpp/
+ls
+clear
+nvim config
+ncmpcpp
+nvim config
+mpd --no-daemon
+ncmpcpp
+clear
+ncmpcpp
+nvim config
+ncmpcpp
+ls
+pwd
+pwd config
+clear
+nvim keys
+ncmpcpp
+nvim config
+ncmpcpp
+ncmpcpp --keys
+ncmpcpp --help 
+man ncmpcpp
+ncmpcpp
+ls
+curl "https://raw.githubusercontent.com/ncmpcpp/ncmpcpp/refs/heads/master/doc/bindings" -o bindings
+clear
+ncmpcpp
+z config
+z hypr
+ls
+nvim 
+exit
+ncmpcpp
+clear
+pkill musikcube
+z hypr
+clear
+beeper
+clear
+exit
+pypr show beeper
+beeper --help
+pypr list
+pypr ls
+pypr --help
+pypr reload
+pypr show beeper
+pypr toggle beeper
+exit
+beeper
+pypr toggle beeper
+exit
+pypr toggle beeper
+nvim 
+tmux new-session -s hypr
+clear
+z config
+clear
+z waybar
+lc
+python3 mediaplayer.py --player musikcube
+python3 mediaplayer.py --player ncmpcpp
+python3 mediaplayer.py --player mpd
+python3 mediaplayer.py
+clear
+exit
+nvim 
+ncmpcpp
+clear
+exit
+nvim
+clear
+z hypr
+z way
+nvim 
+clear
+exit
+kitty --class scratchpad -e ncmpcpp
+pypr toggle music
+nvim 
+tmux new-session -s mpd
+clear
+tmux ls
+exit
+ls
+clear
+tmux
+tmux kill-server
+clear
+ncmpcpp
+clear
+exit
+ls
+tmux
+clear
+git pull origin main 
+clear
+exit
+tmux ls
+ls
+exit
+clear
+exit
+exut
+nvim .tmux.conf
+clear
+tmux new-session -s tmux
+zellij
+yay -R zellij
+clear
+zellij
+clear
+grayjay
+clear
+z gray
+ls
+tmux ls
+z hypr
+tmux new-session -s hypr
+exit
+hyprctl devices
+clear
+nvim 
+clear
+z nvim 
+clear
+nvim .tmux.conf
+clear
+exit
+ls
+nvim 
+clear
+tmux a -t hypr
+tmux kill-session -t hypr
+clear
+tmux ls
+ncmpcpp
+tmux new-session -s music
+bundle exec jekyll serve
+gem cleanup
+bundle exec jekyll serve
+exit
+z taran
+bundle exec jekyll serve
+sudo pacman -S ruby ruby-erb ruby-logger
+clear
+exit
+which folo
+yay -Ss folo
+yay -S folo-appimage
+tmux a -t tarannagra_gith
+nvim
+nvim 
+tmux ls
+ls
+tmux ls
+clear
+ls
+nvim 
+clear
+ls
+git status
+nvim
+clear
+nvim 
+nvim
+nvim 
+clear
+nvim 
+clear
+ls
+nvim 
+ls
+nvim 
+nvim
+clear
+nvim 
+nvim
+nvim 
+clear
+nvim 
+tmux 
+exit
+tmux
+tmux -a el
+tmux a -t el
+tmux ls
+ls
+clear
+nvim
+pwd
+ls
+cd `096 - Web Clippings/`
+ls
+clear
+ls
+ls Misc/
+clear
+ls
+mkdir Folo
+cd Folo
+ls
+pwd
+cd ..
+nvim 
+clear
+tmux a -t El
+tmux a -t music
+tmux ls
+cd .config/
+clear
+mpc --help
+mpc 
+mpc pause
+mpc play
+nvim
+clear
+pypr toggle beeper
+hyprctl classes
+hyprctl --help
+hyprctl activewindows
+hyprctl activewindow
+pypr expose
+pypr reload 
+pypr show beeper
+pypr hide beeper
+pypr toggle beeper
+exit
+tmux new-session -s config
+clear
+yay -Sy whatscli
+yay -R whatscli
+clear
+cd Downloads
+ls
+7z x whatscli-v1.0.11-linux.zip
+clear
+ls
+cd whatscli
+ls
+file whatscli
+chmod +x whatscli
+./whatscli
+rm -rf whatscli*
+clear
+ls
+clear
+tmux a -t music
+sudo pacman -S cronie
+cd .local/
+ls
+cd bin/
+ls
+clear
+nvim 
+ls
+cat battery_notify
+file battery_notify
+acpi -b 
+acpi -b | grep -c "Discharging"
+acpi -b | grep -P -o '[0-9]+(?=%)'
+bash -c battery_notify
+chmod +x battery_notify
+./battery_notify
+ls /tmp/
+clear
+notify-send "Battery Charged" "All juiced up and ready to go!" -i "battery" -r 9991 -u normal
+ls
+./battery_notify
+clear
+ls
+cat battery_notify
+clear
+chmod +x battery_notify
+./battery_notify
+curl "https://raw.githubusercontent.com/ericmurphyxyz/dotfiles/refs/heads/master/.local/bin/battery-alert" -o battery-alert
+ls
+chmod +x battery-alert
+ls
+./battery-alert
+diff 
+diff battery-alert battery_notify
+clear
+rm battery-alert
+clear
+bash -c "echo $DBUS_SESSION_BUS_ADDRESS"
+crontab -e
+bash
+vi
+clear
+crontab --help
+crontab -e 
+nvim .bashrc
+crontab -e 
+clear
+export
+clear
+pwd
+ls
+bash
+clear
+ls
+clear
+tmux ls
+nvim 
+clear
+ls
+curl "https://github.com/ericmurphyxyz/dotfiles/raw/refs/heads/master/.local/bin/battery-charging" -o battery_charging
+clear
+ls
+chmod +x battery_charging
+ls
+./battery_charging
+./battery_charging 0
+nvim battery_notify
+ls
+curl "https://raw.githubusercontent.com/ericmurphyxyz/dotfiles/refs/heads/master/.local/bin/battery-charging" -o battery_charging
+clear
+ls
+cat battery_charging
+clear
+chmod +x battery_charging
+./battery_charging 0
+./battery_charging 1
+clear
+cd dunst/
+ls
+nvim 
+cd /usr/share/icons/
+ls
+cd Papirus/
+ls
+cd ..
+nx Adwaita/
+clear
+yazi
+clear
+cd
+cd .local/
+ls
+cd share/
+ls
+mkdir icons/dunst
+ls
+cd icons/
+ls
+cd dunst/
+ls
+clear
+ls
+z hypr
+killall dunst
+yazi
+clear
+ls
+mv obsidian.svg obsidian-big.svg
+clear
+ls
+ln --help
+clear
+ls
+mv appimagekit-obsidian.svg obsidian.svg
+ls
+mv obsidian.svg obsidian-sym.svg
+ls
+clear
+ls -l
+rm -i obsidian.svg
+bash
+clear
+ls
+rm obsidian-sym.svg
+ls
+yazi /usr/share/icons/
+yazi /usr/share/icons/Papirus/64x64/
+clear
+exit
+clear
+ls
+rm obsidian-big.svg
+clear
+ls
+yazi /usr/share/icons/Papirus/
+nvim dunstrc
+clear
+nvim 
+clear
+ls
+clear
+ls
+cd hypr
+ls
+cd config/
+ls
+cd animations/
+ls
+curl "https://raw.githubusercontent.com/acdcbyl/Dotfiles-arch/refs/heads/main/.config/hypr/configs/animations.conf" -o aiser-anim.conf
+ls
+cat aiser-anim.conf
+clear
+cd ..
+ls
+cd ..
+ls
+clear
+nvim 
+ls
+cd
+cd .local
+ls
+cd bin
+ls
+ls
+mv battery_20.png battery_warning.png
+./battery_notify
+rm /tmp/batteryfull
+./battery_notify
+rm /tmp/batteryfull
+clear
+rm /tmp/batteryfull && ./battery_notify
+rm /tmp/batteryfull; ./battery_notify
+clear
+ls
+clear
+ls
+./battery_notify
+rm /tmp/batteryfull; ./battery_notify
+ls 
+ls -la
+ls -l
+clear
+ls -a
+ls -a | less
+./battery_charging 1
+./battery_charging 0
+sudo nvim /etc/udev/rules.d/60-power.rules
+ls
+clear
+./battery_charging charging
+./battery_charging discharging
+sudo nvim /etc/udev/rules.d/99-powersupply_notifications.rules
+claer
+exit
+sudo nvim /etc/udev/rules.d/99-powersupply_notifications.rules
+clear
+exit
+nvim 
+clear
+cd
+ls
+clear
+pwd
+nvim 
+clear
+ls
+clear
+yay -Ssy batsignal
+yay -Sy batsignal
+batsignal 
+batsignal --help
+man batsignal 
+cd .config/
+ls
+cd ..
+ls
+ls -l
+ls -a | less
+clear
+tldr
+clear
+sudo pacman -Sy tldr
+sudo pacman -Ssy tldr
+sudo pacman -Sy tldr
+tldr batsignal
+tldr ls
+clear
+crontab -e 
+bash
+clear
+crontab
+cat /sys/class/power_supply/BAT1/capacity
+ls
+cd .local
+ls
+cd .bin
+ls
+cd bin/
+ls
+nvim 
+/home/taran/.local/bin/battery_notify
+/home/taran/.local/bin/battery_notify 0
+exit
+ls
+./battery_notify
+rm /tmp/batteryfull; ./battery_notify
+rm /tmp/batteryfull
+bash
+exit
+bash
+z way
+clear
+nvim
+clear
+batsignal -l 20 -c 10 
+batsignal -c 10
+clear
+exit
+batsignal &
+clear
+batsignal -c 100
+clear
+exit
+systemctl --user edit batsignal.service
+which batsignal
+systemctl --user edit batsignal.service
+clear
+ls
+systemctl --user edit batsignal.service
+systemctl --user daemon-reexec<\n>systemctl --user enable --now batsignal.service
+systemctl --user status batsignal.service
+clear
+systemctl --user edit batsignal.service
+clear
+systemctl --user daemon-reexec<\n>systemctl --user enable --now batsignal.service
+cd scripts/
+ls
+chmod +x battery.sh
+./battery.sh
+batsignal --help
+batsignal
+man batsignal 
+./battery.sh
+man batsignal | less
+ps aux | grep batsignal
+bash
+exit
+z dunst
+claer
+nvim 
+ps aux | grep batsignal
+bash
+exit
+ls
+exit
+z bin
+clea
+clear
+ls
+clear
+z local
+ls
+cd bin/
+ls
+cat battery_notify
+clear
+./battery_notify
+pwd
+ls
+pwd
+~/.local/bin/battery_notify
+rm /tmp/batteryfull
+~/.local/bin/battery_notify
+nvim 
+rm /tmp/batteryfull
+bash
+clear
+ls
+nvim battery_notify
+./
+./battery_notify
+rm /tmp/batteryfull
+exit
+nvim 
+exir
+exit
+sudo pacman -Qi musikcube
+sudo pacman -R musikcube
+sudo pacman -R musikcube-bin
+clear
+nvim
+clear
+ls
+exit
+git status
+git add .
+git commit -m "Modified: moving-from-vscode-to-neovim"
+git push origin main 
+clear
+ls
+git status
+clear
+tmux a -t config
+z tmux
+ls
+cd plugins/
+ls
+cd tmux-resurrect/
+ls
+cd ..
+ls
+cd ..
+ls
+cd .tmux/
+ls
+cd ..
+dunst
+tmux a -t music
+tmux ls
+nvim
+clear
+cat /sys/class/power_supply/BAT1/capacity
+clear
+exit
+ls
+yazi
+tmux
+tmux ls
+nvim
+tmux a -t taran
+exit
+ls
+nvim 
+clear
+jdk --version
+clear
+java --version
+mvn --version
+clear
+exit
+sudo pacman -Ssy maven
+sudo pacman -Sy maven
+mvn --version
+clear
+z coding
+ls
+mkdir Java
+cd Java/
+ls
+clear
+mvn archetype:generate -DgroupId=com.example.app -DartifactId=example-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
+cd example-app/
+ls
+clear
+mvn package
+ls
+java -cp target/example-app-1.0-SNAPSHOT.jar com.example.app.App
+clear
+exit
+tmux
+clear
+ls
+mvn --version
+clear
+ls
+ls -tree
+ls -f
+clear
+ls
+cd ..
+ls
+cd example-app/
+clear
+ls
+lsd
+exa
+clear
+tree
+clear
+sudo pacman -Ssy exa
+sudo pacman -Ssy exa | grep "extra/exa"
+sudo pacman -Ssy exa | grep "/exa"
+exit
+sudo pacman -Ssy eza
+sudo pacman -Sy eza
+nvim
+ls
+exa -tree
+exa --tree
+cleasr
+clear
+cd ..
+rm -rf example-app/
+clear
+mvn archetype:generate -DgroupId=com.example.app -DartifactId=example-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
+ls
+cd example-app/
+ls
+clear
+exa --tree
+mvn package
+java -cp target/example-app-1.0-SNAPSHOT.jar com.example.app.App
+ls
+clear
+nvim
+make build
+make run 
+clear
+ls
+java -cp target/example-app-1.0-SNAPSHOT.jar com.example.app.App
+make run 
+ls
+cp Makefile ..
+ls
+cd ..
+ls
+rm -rf example-app/
+make init
+ls
+cp Makefile my-project/
+ls
+clear
+cd my-project/
+ls
+make build 
+make run 
+clear
+ls
+make build
+clear
+make run 
+clear
+make build 
+make run 
+z java
+ls
+nvim Makefile
+clea
+exit
+make build
+make run 
+make
+z java
+ls
+clear
+nvim Makefile
+make clean
+make
+nvim 
+clear
+exit
+tmux a -t El
+clear
+ls
+nvim
+ls
+clear
+help view source
+config nu
+clear
+ls
+tmux ls
+tmux ;s
+ls
+exit
+cd nushell/
+ls
+clear
+help view source
+view source print
+help view source
+tmux
+clear
+exit
+clear
+view source mnew
+mnew a a 
+mnew a b
+mnew a
+exit
+mnew a
+mnew a a
+exit
+mnew a a
+mnew
+mnew a a 1.5
+mnew a a 1
+clear
+exit
+mnew a a 1
+exit
+mnew a a 1
+mnew a a 1 true
+mnew a a 1 false
+clear
+exit
+view source mnew
+clear
+help mnew
+exit
+help mnew
+exit
+exit
+help mnew
+clear
+ls
+help mnew
+source ~/.config/nushell/config.nu
+clear
+help mnew
+clear
+reload
+clear
+source ~/.config/nushell/config.nu
+clear
+exit
+help mnew
+clear
+exit
+nvim config.nu
+clear
+source ~/.config/nushell/config.nu
+clear
+help mnew
+clear
+help mnew
+mnew com.servlet-testing.app
+mnew com.servlet-testing.app servlet-testing
+mnew com.servlet-testing.app servlet-testing 1.5 false
+source ~/.config/nushell/config.nu
+mnew com.servlet-testing.app servlet-testing 1.5 false
+clear
+ls
+mvn archetype:generate -DgroupId=com.servlet-testing.app -DartifactId=servlet-testing -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.5 -DinteractiveMode=false
+ls
+rm -rf servlet-testing/
+source ~/.config/nushell/config.nu
+clear
+mnew com.servlet-testing.app servlet-testing 1.5 false
+mnew com.servlet-testing.app servlet-testing
+source ~/.config/nushell/config.nu
+ls
+clear
+mnew com.servlet-testing.app servlet-testing
+ls
+dolphin .
+clear
+source ~/.config/nushell/config.nu
+mnew com.servlet-testing.app servlet-testing
+clear
+mnew com.servlet-testing.app servlet-testing 1.5 false
+clear
+source ~/.config/nushell/config.nu
+help mnew
+mnew com.servlet-testing.app servlet-testing 1.5 false
+source ~/.config/nushell/config.nu
+ls
+exit
+ls
+clear
+cd .tools
+ls
+cd .local
+ls
+cd
+cd .tools
+ls
+cd .local
+ls
+cd bin
+ls
+clear
+nvim 
+yazu
+yazi
+clear
+z nush
+clear
+ls
+mkdir external
+cd external/
+cd ..
+cd external/
+ls
+clear
+python3 mnew.py
+python3 mnew.py a a a
+python3 mnew.py com.myapp.app myapp
+clear
+python3 mnew.py com.myapp.app myapp
+clear
+python3 mnew.py com.myapp.app myapp
+clear
+python3 mnew.py com.myapp.app myapp
+python3 mnew.py com.myapp.app myapp 2.0 True
+clear
+python3 mnew.py com.myapp.app myapp
+clear
+python3 mnew.py com.myapp.app myapp
+ls
+chmod +x mnew.py
+clear
+ls
+file mnew.py
+ls
+clear
+source ~/.config/nushell/config.nu
+mnew com.servlet-testing.app servlet-testing
+clear
+ls
+which mnew
+clear
+help mnew
+source ~/.config/nushell/config.nu
+help mnew
+clear
+tmux a -t config
+help mnew
+clear
+z Java
+ls
+mnew com.servlet-testing.app servlet-testing
+config nu
+source ~/.config/nushell/config.nu
+clear
+mnew com.servlet-testing.app servlet-testing
+config nu
+clear
+tmux a -t config
+help mnew
+mnew
+config nu
+source ~/.config/nushell/config.nu
+z java
+ls
+mnew com.servlet-testing.app servlet-testing
+tmux ls
+tmux
+tmux kill-server
+mnew
+$nu.config-path
+config nu
+z nushell
+ls
+pwd
+alias
+list alias
+help alias
+help view alias
+help mnew
+clear
+fish
+clear
+sudo pacman -Ssy fish
+sudo pacman -Sy fish
+fish
+time ls
+clear
+ls
+tmux ls
+tmux new-session -s config
+tmux 
+ls
+cd .config
+ls
+cd kitty
+ls
+nvim 
+exit
+tmux new-session -s config
+ls
+clear
+ls
+cd
+nvim .tmux.conf
+/bin/fish
+exit
+exit
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+clear
+ls
+exit
+ls
+clear
+mvn clean
+make
+clear
+ls
+clear
