@@ -1,3 +1,6 @@
 [submodule ".tmux/plugins/tmux-kanagawa"]
 	path = .tmux/plugins/tmux-kanagawa
 	url = https://github.com/Nybkox/tmux-kanagawa
+[submodule ".tmux/plugins/tmux-resurrect"]
+	path = .tmux/plugins/tmux-resurrect
+	url = https://github.com/tmux-plugins/tmux-resurrect
